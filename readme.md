@@ -6,6 +6,8 @@
 
 NanoShell is a preemptively multi-tasked 32-bit operating system with a windowed GUI.
 
+its like [windows93](http://www.windows93.net/) but better
+
 #### Be advised that this is beta-level software and you should not expect any stability from it.
 
 This software is licensed under the GNU General Public License version 3.
