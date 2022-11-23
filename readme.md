@@ -6,7 +6,7 @@
 
 NanoShell is a preemptively multi-tasked 32-bit operating system with a windowed GUI.
 
-its like [windows93](http://www.windows93.net/) and [windows 98](https://98.js.org/)and [another one](https://archive.org/details/windows-98-se-isofile) and [how to install](https://www.sysnettechsolutions.com/en/install-oracle-vm-virtualbox-on-windows-10/) and [atlasOS](https://github.com/Atlas-OS/Atlas)
+its like [windows93](http://www.windows93.net/) and [windows 98](https://98.js.org/)and [another one](https://archive.org/details/windows-98-se-isofile) and [how to install](https://www.sysnettechsolutions.com/en/install-oracle-vm-virtualbox-on-windows-10/) and [atlasOS](https://github.com/Atlas-OS/Atlas) and [vmkeys](https://gist.github.com/williamgh2019/cc2ad94cc18cb930a0aab42ed8d39e6f)
 
 #### Be advised that this is beta-level software and you should not expect any stability from it.
 
