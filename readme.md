@@ -6,7 +6,7 @@
 
 NanoShell is a preemptively multi-tasked 32-bit operating system with a windowed GUI.
 
-its like [windows93](http://www.windows93.net/) and [windows 98](https://98.js.org/)and [another one](https://archive.org/details/windows-98-se-isofile) and [how to install](https://www.sysnettechsolutions.com/en/install-oracle-vm-virtualbox-on-windows-10/) and [atlasOS](https://github.com/Atlas-OS/Atlas) and [vmkeys](https://gist.github.com/williamgh2019/cc2ad94cc18cb930a0aab42ed8d39e6f) [all](https://github.com/joshuaword2alt/json-template-engine) [vhs](https://github.com/JargeZ/ntscqt) [tts](https://github.com/discordier/sam) [tts2](https://www.tetyys.com/SAPI4/)
+its like [windows93](http://www.windows93.net/) and [windows 98](https://98.js.org/)and [another one](https://archive.org/details/windows-98-se-isofile) and [how to install](https://www.sysnettechsolutions.com/en/install-oracle-vm-virtualbox-on-windows-10/) and [atlasOS](https://github.com/Atlas-OS/Atlas) and [vmkeys](https://gist.github.com/williamgh2019/cc2ad94cc18cb930a0aab42ed8d39e6f) [all](https://github.com/joshuaword2alt/json-template-engine) [vhs](https://github.com/JargeZ/ntscqt) [tts](https://github.com/discordier/sam) [tts2](https://www.tetyys.com/SAPI4/) [ok](https://cloaksplus.com/) [ok2](https://mantle.gg/)
 
 #### Be advised that this is beta-level software and you should not expect any stability from it.
 
